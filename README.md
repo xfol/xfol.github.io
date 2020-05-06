@@ -79,17 +79,6 @@
     <p style="font-size: 12px;font-family: 微软雅黑;"><font color="#E000FF">无注册邀请码的朋友可使用官方邀请码:123456</font></p>
         <p>技术QQ:615831(微信同号)</p>
     <p><a target="_blank" href="http://beian.miit.gov.cn/"><font color="#E000FF">鄂ICP备18025996号-1</font></a>
-            
-            <script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?0b5e1d8a0e2724ed8826644b1288ffc6";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-
     </div>
 </div>
 <script type="text/javascript">
